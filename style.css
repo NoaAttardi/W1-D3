@@ -6,3 +6,7 @@ font-family: Georgia, 'Times New Roman', Times, serif;}
 }
 h1 {text-align: center;
 margin-bottom: 2rem;}
+.box 
+header div {background-color: lightyellow;
+  Main h1 { background-color: rgb(41, 172, 172);}  
+
