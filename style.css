@@ -1,6 +1,38 @@
-Body { width: 50%; margin-left: auto; margin-right: auto;
 
-font-family: Georgia, 'Times New Roman', Times, serif;}
-main { text-align: center;}
+header h4{ background-color: #ffd70029;
+    padding-top: 1em;
+    padding-bottom: 1em; }
 header {text-align: center; }
-.Logo Simply{ width: 200px; }
+header img { width: 13%;}
+main { width: 50%; margin-right: auto;margin-left: auto;}
+main img { width: 100%; border-radius: 10px;}
+.centrale { text-align: center; padding: 0,5em;}
+h2 { font-size: 1,8; }
+main div {font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 0.8em;
+padding-bottom: 8px;}
+.centrale { color: #9e9e9e54;
+padding-top: 10px;}
+.box {color: #b61c1cd9;
+    border-left: 1px solid #8B0000;
+    margin-right: 30px;
+    height: 20px;
+    padding-top: 10px;
+    padding-bottom: 0;
+    
+    
+}
+
+    
+h2 { font-family: Georgia, 'Times New Roman', Times, serif;}
+ul div { margin-left: -40px; font-size: 0.8em;}
+ul article {
+    margin-left: -40px;
+    font-size: 0.8em;
+    padding-bottom: 5px;
+
+}
+
+.ultimo { 
+    margin-left:20px;
+}
